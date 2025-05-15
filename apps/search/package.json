@@ -52,7 +52,7 @@
     "dotenv": "16.3.1",
     "graphql": "16.7.1",
     "graphql-tag": "2.12.6",
-    "next": "14.2.3",
+    "next": "14.2.26",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-helmet": "^6.1.0",
@@ -79,8 +79,8 @@
     "node-mocks-http": "^1.12.2",
     "tsx": "4.7.1",
     "typescript": "5.5.4",
-    "vite": "5.3.3",
-    "vitest": "1.6.0"
+    "vite": "5.4.19",
+    "vitest": "1.6.1"
   },
   "private": true,
   "saleor": {
